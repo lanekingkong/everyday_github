@@ -21,7 +21,7 @@ from datetime import datetime, date
 from pathlib import Path
 
 from topics import TOPICS
-from templates import generate_project_files
+from code_templates import generate_project_files
 
 # === CONFIGURATION ===
 REPO_ROOT = Path(__file__).parent.parent  # everyday_github
