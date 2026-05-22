@@ -32,7 +32,7 @@ LOG_FILE = OUTPUT_DIR / "generator.log"
 # GitHub config — set via env vars or git config
 GIT_USER_NAME = os.environ.get("GIT_USER_NAME", "Daily Code Bot")
 GIT_USER_EMAIL = os.environ.get("GIT_USER_EMAIL", "daily-bot@users.noreply.github.com")
-GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME", "kingkonglane")
+GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME", "lanekingkong")
 
 
 def log(msg: str) -> None:

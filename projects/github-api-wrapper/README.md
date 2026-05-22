@@ -23,4 +23,4 @@ python github_api_wrapper.py
 
 ## 🔗 Daily Code Series
 
-Part of my [daily-code](https://github.com/kingkonglane/daily-code) challenge — shipping one mini-project every day.
+Part of my [daily-code](https://github.com/lanekingkong/daily-code) challenge — shipping one mini-project every day.
