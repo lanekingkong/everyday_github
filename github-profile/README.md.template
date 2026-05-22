@@ -1,0 +1,63 @@
+<!--
+  PROFILE README — Replace {{PLACEHOLDERS}} with your actual info
+  This goes in: https://github.com/<your-username>/<your-username>
+-->
+
+<h1 align="center">Hi 👋, I'm <code>{{YOUR_NAME}}</code></h1>
+<h3 align="center">{{YOUR_TITLE}} • Builder • Open Source Contributor</h3>
+
+<p align="center">
+  <a href="https://forg.to/@{{USERNAME}}"><img src="https://img.shields.io/badge/forg.to-000?style=for-the-badge&logo=forgejo&logoColor=white"></a>
+  <a href="https://peerlist.io/{{USERNAME}}"><img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white"></a>
+  <a href="https://hashnode.com/@{{USERNAME}}"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://dev.to/{{USERNAME}}"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+  <a href="{{PORTFOLIO_URL}}"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+```
+{{SKILL_LIST}}
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username={{USERNAME}}&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user={{USERNAME}}&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Daily Code](https://github.com/{{USERNAME}}/daily-code)** | Auto-generated daily mini-projects — algorithms, tools, utilities | Python, JS, Go |
+| **[{{PROJECT_2_NAME}}]({{PROJECT_2_URL}})** | {{PROJECT_2_DESC}} | {{PROJECT_2_TECH}} |
+| **[{{PROJECT_3_NAME}}]({{PROJECT_3_URL}})** | {{PROJECT_3_DESC}} | {{PROJECT_3_TECH}} |
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📈 This Week's Activity
+
+```text
+{{WEEKLY_ACTIVITY}}
+```
+
+---
+
+<p align="center">
+  <i>"Shipping every day. One commit at a time."</i>
+</p>

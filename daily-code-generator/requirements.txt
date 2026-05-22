@@ -1,0 +1,11 @@
+# Daily Code Generator
+# Real, working mini-projects shipped daily.
+
+# Core
+requests>=2.31.0
+
+# Optional — for specific project types
+fastapi>=0.115.0       # URL shortener, API projects
+uvicorn>=0.34.0        # ASGI server
+sqlite3                # CLI todo app (stdlib, listed for reference)
+rich>=13.9.0           # Beautiful terminal output (optional enhancement)

@@ -1,0 +1,75 @@
+name: Daily Code Project Generator
+
+on:
+  schedule:
+    # Runs daily at 07:37 UTC (random offset to avoid peak load)
+    # Pick a random minute — not :00 or :30 — to spread load across repos
+    - cron: "37 7 * * *"
+  workflow_dispatch:
+    inputs:
+      force_topic:
+        description: "Topic key to force (leave empty for auto-select)"
+        required: false
+        default: ""
+      skip_weekend:
+        description: "Skip on weekends"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run generator
+        env:
+          GIT_USER_NAME: ${{ secrets.GIT_USER_NAME || 'Daily Code Bot' }}
+          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL || 'daily-bot@users.noreply.github.com' }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          FORCE_TOPIC: ${{ inputs.force_topic || '' }}
+          SKIP_WEEKEND: ${{ inputs.skip_weekend || 'false' }}
+        run: |
+          cd daily-code-generator
+          python generate.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "$GIT_USER_NAME"
+          git config user.email "$GIT_USER_EMAIL"
+
+          if [ -f projects/commit_info.json ]; then
+            COMMIT_MSG=$(python -c "import json; print(json.load(open('projects/commit_info.json'))['commit_message'])")
+          else
+            COMMIT_MSG="📅 Daily Code Project"
+          fi
+
+          git add projects/ .
+          git diff --staged --quiet || git commit -m "$COMMIT_MSG"
+          git push
+
+      - name: Update project index
+        run: |
+          echo "✅ Daily project generated and pushed!"
+          python -c "
+  import json
+  from pathlib import Path
+  idx = Path('projects/projects.json')
+  if idx.exists():
+      data = json.loads(idx.read_text())
+      print(f'   Total projects: {len(data[\"projects\"])}')
+      print(f'   Today: {data[\"projects\"][-1] if data[\"projects\"] else \"N/A\"}')
+  "
