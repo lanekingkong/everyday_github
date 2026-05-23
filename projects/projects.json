@@ -1,9 +1,11 @@
 {
   "projects": [
-    "github-api-wrapper"
+    "github-api-wrapper",
+    "markdown-to-html"
   ],
-  "last_date": "2026-05-22",
+  "last_date": "2026-05-23",
   "category_counts": {
-    "API Wrappers": 1
+    "API Wrappers": 1,
+    "Utilities": 1
   }
 }
