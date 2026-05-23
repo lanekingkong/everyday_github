@@ -2,8 +2,6 @@ name: Daily Code Project Generator
 
 on:
   schedule:
-    # Runs daily at 07:37 UTC (random offset to avoid peak load)
-    # Pick a random minute — not :00 or :30 — to spread load across repos
     - cron: "37 7 * * *"
   workflow_dispatch:
     inputs:
@@ -25,47 +23,46 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Run generator
         env:
-          GIT_USER_NAME: ${{ secrets.GIT_USER_NAME || 'Daily Code Bot' }}
-          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL || 'daily-bot@users.noreply.github.com' }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
-          FORCE_TOPIC: ${{ inputs.force_topic || '' }}
-          SKIP_WEEKEND: ${{ inputs.skip_weekend || 'false' }}
         run: |
           cd daily-code-generator
           python generate.py
 
       - name: Commit and push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "$GIT_USER_NAME"
-          git config user.email "$GIT_USER_EMAIL"
+          git config user.name "lanekingkong"
+          git config user.email "lanekingkong@gmail.com"
 
           if [ -f projects/commit_info.json ]; then
-            COMMIT_MSG=$(python -c "import json; print(json.load(open('projects/commit_info.json'))['commit_message'])")
+            COMMIT_MSG=$(python -c "import json; f=open('projects/commit_info.json'); d=json.load(f); print(d['commit_message'])")
           else
             COMMIT_MSG="Daily Code Project"
           fi
 
-          git add projects/ .
+          git add projects/ projects.json 2>/dev/null || true
+          git add .
+
           if ! git diff --staged --quiet; then
             git commit -m "$COMMIT_MSG"
-            git push
+            git push origin HEAD:main
           else
             echo "No changes to commit."
           fi
 
       - name: Show status
         run: |
-          echo "Daily project generated and pushed!"
+          echo "--- Daily project complete ---"
           cat projects/projects.json 2>/dev/null || echo "First run!"
