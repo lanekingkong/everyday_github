@@ -2,12 +2,14 @@
   "projects": [
     "github-api-wrapper",
     "markdown-to-html",
-    "bloom-filter"
+    "bloom-filter",
+    "wordle-clone"
   ],
-  "last_date": "2026-05-24",
+  "last_date": "2026-05-25",
   "category_counts": {
     "API Wrappers": 1,
     "Utilities": 1,
-    "Data Structures": 1
+    "Data Structures": 1,
+    "Games": 1
   }
 }
