@@ -4,14 +4,16 @@
     "markdown-to-html",
     "bloom-filter",
     "wordle-clone",
-    "url-shortener"
+    "url-shortener",
+    "sorting-visualizer"
   ],
-  "last_date": "2026-05-27",
+  "last_date": "2026-05-28",
   "category_counts": {
     "API Wrappers": 1,
     "Utilities": 1,
     "Data Structures": 1,
     "Games": 1,
-    "Mini Apps": 1
+    "Mini Apps": 1,
+    "Algorithms": 1
   }
 }
