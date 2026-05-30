@@ -6,15 +6,16 @@
     "wordle-clone",
     "url-shortener",
     "sorting-visualizer",
-    "stock-analyzer"
+    "stock-analyzer",
+    "weather-cli"
   ],
-  "last_date": "2026-05-29",
+  "last_date": "2026-05-30",
   "category_counts": {
     "API Wrappers": 1,
     "Utilities": 1,
     "Data Structures": 1,
     "Games": 1,
-    "Mini Apps": 1,
+    "Mini Apps": 2,
     "Algorithms": 1,
     "Data Science": 1
   }
