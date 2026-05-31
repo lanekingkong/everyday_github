@@ -7,11 +7,12 @@
     "url-shortener",
     "sorting-visualizer",
     "stock-analyzer",
-    "weather-cli"
+    "weather-cli",
+    "openai-playground"
   ],
-  "last_date": "2026-05-30",
+  "last_date": "2026-05-31",
   "category_counts": {
-    "API Wrappers": 1,
+    "API Wrappers": 2,
     "Utilities": 1,
     "Data Structures": 1,
     "Games": 1,
