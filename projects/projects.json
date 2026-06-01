@@ -8,9 +8,10 @@
     "sorting-visualizer",
     "stock-analyzer",
     "weather-cli",
-    "openai-playground"
+    "openai-playground",
+    "packet-sniffer"
   ],
-  "last_date": "2026-05-31",
+  "last_date": "2026-06-01",
   "category_counts": {
     "API Wrappers": 2,
     "Utilities": 1,
@@ -18,6 +19,7 @@
     "Games": 1,
     "Mini Apps": 2,
     "Algorithms": 1,
-    "Data Science": 1
+    "Data Science": 1,
+    "Networking": 1
   }
 }
