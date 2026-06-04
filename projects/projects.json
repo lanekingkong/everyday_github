@@ -11,12 +11,13 @@
     "openai-playground",
     "packet-sniffer",
     "key-value-store",
-    "log-analyzer"
+    "log-analyzer",
+    "file-organizer"
   ],
-  "last_date": "2026-06-03",
+  "last_date": "2026-06-04",
   "category_counts": {
     "API Wrappers": 2,
-    "Utilities": 1,
+    "Utilities": 2,
     "Data Structures": 1,
     "Games": 1,
     "Mini Apps": 2,
