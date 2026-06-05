@@ -12,9 +12,10 @@
     "packet-sniffer",
     "key-value-store",
     "log-analyzer",
-    "file-organizer"
+    "file-organizer",
+    "price-tracker"
   ],
-  "last_date": "2026-06-04",
+  "last_date": "2026-06-05",
   "category_counts": {
     "API Wrappers": 2,
     "Utilities": 2,
@@ -25,6 +26,7 @@
     "Data Science": 1,
     "Networking": 1,
     "Databases": 1,
-    "DevOps": 1
+    "DevOps": 1,
+    "Web Scraping": 1
   }
 }
