@@ -13,14 +13,15 @@
     "key-value-store",
     "log-analyzer",
     "file-organizer",
-    "price-tracker"
+    "price-tracker",
+    "terminal-snake"
   ],
-  "last_date": "2026-06-05",
+  "last_date": "2026-06-06",
   "category_counts": {
     "API Wrappers": 2,
     "Utilities": 2,
     "Data Structures": 1,
-    "Games": 1,
+    "Games": 2,
     "Mini Apps": 2,
     "Algorithms": 1,
     "Data Science": 1,
