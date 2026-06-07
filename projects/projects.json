@@ -14,9 +14,10 @@
     "log-analyzer",
     "file-organizer",
     "price-tracker",
-    "terminal-snake"
+    "terminal-snake",
+    "data-profiler"
   ],
-  "last_date": "2026-06-06",
+  "last_date": "2026-06-07",
   "category_counts": {
     "API Wrappers": 2,
     "Utilities": 2,
@@ -24,7 +25,7 @@
     "Games": 2,
     "Mini Apps": 2,
     "Algorithms": 1,
-    "Data Science": 1,
+    "Data Science": 2,
     "Networking": 1,
     "Databases": 1,
     "DevOps": 1,
