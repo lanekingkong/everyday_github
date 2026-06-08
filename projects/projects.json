@@ -15,9 +15,10 @@
     "file-organizer",
     "price-tracker",
     "terminal-snake",
-    "data-profiler"
+    "data-profiler",
+    "query-parser"
   ],
-  "last_date": "2026-06-07",
+  "last_date": "2026-06-08",
   "category_counts": {
     "API Wrappers": 2,
     "Utilities": 2,
@@ -27,7 +28,7 @@
     "Algorithms": 1,
     "Data Science": 2,
     "Networking": 1,
-    "Databases": 1,
+    "Databases": 2,
     "DevOps": 1,
     "Web Scraping": 1
   }
