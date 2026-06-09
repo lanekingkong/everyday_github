@@ -16,16 +16,17 @@
     "price-tracker",
     "terminal-snake",
     "data-profiler",
-    "query-parser"
+    "query-parser",
+    "pathfinding-astar"
   ],
-  "last_date": "2026-06-08",
+  "last_date": "2026-06-09",
   "category_counts": {
     "API Wrappers": 2,
     "Utilities": 2,
     "Data Structures": 1,
     "Games": 2,
     "Mini Apps": 2,
-    "Algorithms": 1,
+    "Algorithms": 2,
     "Data Science": 2,
     "Networking": 1,
     "Databases": 2,
