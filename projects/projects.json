@@ -18,13 +18,14 @@
     "data-profiler",
     "query-parser",
     "pathfinding-astar",
-    "rate-limiter"
+    "rate-limiter",
+    "trie-autocomplete"
   ],
-  "last_date": "2026-06-10",
+  "last_date": "2026-06-11",
   "category_counts": {
     "API Wrappers": 2,
     "Utilities": 2,
-    "Data Structures": 1,
+    "Data Structures": 2,
     "Games": 2,
     "Mini Apps": 2,
     "Algorithms": 2,
