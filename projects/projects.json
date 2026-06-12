@@ -19,9 +19,10 @@
     "query-parser",
     "pathfinding-astar",
     "rate-limiter",
-    "trie-autocomplete"
+    "trie-autocomplete",
+    "job-scraper"
   ],
-  "last_date": "2026-06-11",
+  "last_date": "2026-06-12",
   "category_counts": {
     "API Wrappers": 2,
     "Utilities": 2,
@@ -33,7 +34,7 @@
     "Networking": 1,
     "Databases": 2,
     "DevOps": 1,
-    "Web Scraping": 1,
+    "Web Scraping": 2,
     "System Design": 1
   }
 }
