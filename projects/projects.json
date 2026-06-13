@@ -20,15 +20,16 @@
     "pathfinding-astar",
     "rate-limiter",
     "trie-autocomplete",
-    "job-scraper"
+    "job-scraper",
+    "pomodoro-timer"
   ],
-  "last_date": "2026-06-12",
+  "last_date": "2026-06-13",
   "category_counts": {
     "API Wrappers": 2,
     "Utilities": 2,
     "Data Structures": 2,
     "Games": 2,
-    "Mini Apps": 2,
+    "Mini Apps": 3,
     "Algorithms": 2,
     "Data Science": 2,
     "Networking": 1,
