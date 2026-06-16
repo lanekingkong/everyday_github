@@ -1,6 +1,6 @@
 # GitHub REST API Python Wrapper
 
-> 🏷 **API Wrappers** · ⚡ Daily Code · 📅 2026-05-22
+> 🏷 **API Wrappers** · ⚡ Daily Code · 📅 2026-06-16
 
 Lightweight wrapper for GitHub API — repos, issues, PRs, stars, with pagination and rate-limit handling.
 
@@ -19,7 +19,7 @@ python github_api_wrapper.py
 
 ## 📋 Requirements
 
-- Python 3.14
+- Python 3.12
 
 ## 🔗 Daily Code Series
 

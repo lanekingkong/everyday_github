@@ -23,11 +23,12 @@
     "job-scraper",
     "pomodoro-timer",
     "git-stats",
-    "consistent-hashing"
+    "consistent-hashing",
+    "github-api-wrapper"
   ],
-  "last_date": "2026-06-15",
+  "last_date": "2026-06-16",
   "category_counts": {
-    "API Wrappers": 2,
+    "API Wrappers": 3,
     "Utilities": 3,
     "Data Structures": 2,
     "Games": 2,
