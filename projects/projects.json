@@ -24,9 +24,10 @@
     "pomodoro-timer",
     "git-stats",
     "consistent-hashing",
-    "github-api-wrapper"
+    "github-api-wrapper",
+    "docker-healthcheck"
   ],
-  "last_date": "2026-06-16",
+  "last_date": "2026-06-17",
   "category_counts": {
     "API Wrappers": 3,
     "Utilities": 3,
@@ -37,7 +38,7 @@
     "Data Science": 2,
     "Networking": 1,
     "Databases": 2,
-    "DevOps": 1,
+    "DevOps": 2,
     "Web Scraping": 2,
     "System Design": 2
   }
