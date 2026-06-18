@@ -25,14 +25,15 @@
     "git-stats",
     "consistent-hashing",
     "github-api-wrapper",
-    "docker-healthcheck"
+    "docker-healthcheck",
+    "text-adventure"
   ],
-  "last_date": "2026-06-17",
+  "last_date": "2026-06-18",
   "category_counts": {
     "API Wrappers": 3,
     "Utilities": 3,
     "Data Structures": 2,
-    "Games": 2,
+    "Games": 3,
     "Mini Apps": 3,
     "Algorithms": 2,
     "Data Science": 2,
