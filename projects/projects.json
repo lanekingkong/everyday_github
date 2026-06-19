@@ -26,9 +26,10 @@
     "consistent-hashing",
     "github-api-wrapper",
     "docker-healthcheck",
-    "text-adventure"
+    "text-adventure",
+    "packet-sniffer"
   ],
-  "last_date": "2026-06-18",
+  "last_date": "2026-06-19",
   "category_counts": {
     "API Wrappers": 3,
     "Utilities": 3,
@@ -37,7 +38,7 @@
     "Mini Apps": 3,
     "Algorithms": 2,
     "Data Science": 2,
-    "Networking": 1,
+    "Networking": 2,
     "Databases": 2,
     "DevOps": 2,
     "Web Scraping": 2,

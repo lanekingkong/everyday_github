@@ -1,6 +1,6 @@
 # Network Packet Analyzer
 
-> 🏷 **Networking** · ⚡ Daily Code · 📅 2026-06-01
+> 🏷 **Networking** · ⚡ Daily Code · 📅 2026-06-19
 
 Capture and decode TCP/UDP/ICMP packets, show real-time traffic stats, protocol distribution charts.
 
