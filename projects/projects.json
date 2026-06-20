@@ -27,12 +27,13 @@
     "github-api-wrapper",
     "docker-healthcheck",
     "text-adventure",
-    "packet-sniffer"
+    "packet-sniffer",
+    "env-manager"
   ],
-  "last_date": "2026-06-19",
+  "last_date": "2026-06-20",
   "category_counts": {
     "API Wrappers": 3,
-    "Utilities": 3,
+    "Utilities": 4,
     "Data Structures": 2,
     "Games": 3,
     "Mini Apps": 3,
