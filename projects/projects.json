@@ -28,9 +28,10 @@
     "docker-healthcheck",
     "text-adventure",
     "packet-sniffer",
-    "env-manager"
+    "env-manager",
+    "hn-scraper"
   ],
-  "last_date": "2026-06-20",
+  "last_date": "2026-06-21",
   "category_counts": {
     "API Wrappers": 3,
     "Utilities": 4,
@@ -42,7 +43,7 @@
     "Networking": 2,
     "Databases": 2,
     "DevOps": 2,
-    "Web Scraping": 2,
+    "Web Scraping": 3,
     "System Design": 2
   }
 }
