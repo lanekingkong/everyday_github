@@ -30,9 +30,10 @@
     "packet-sniffer",
     "env-manager",
     "hn-scraper",
-    "log-analyzer"
+    "log-analyzer",
+    "http-server"
   ],
-  "last_date": "2026-06-22",
+  "last_date": "2026-06-23",
   "category_counts": {
     "API Wrappers": 3,
     "Utilities": 4,
@@ -41,7 +42,7 @@
     "Mini Apps": 3,
     "Algorithms": 2,
     "Data Science": 2,
-    "Networking": 2,
+    "Networking": 3,
     "Databases": 2,
     "DevOps": 3,
     "Web Scraping": 3,
