@@ -31,16 +31,17 @@
     "env-manager",
     "hn-scraper",
     "log-analyzer",
-    "http-server"
+    "http-server",
+    "dijkstra-shortest-path"
   ],
-  "last_date": "2026-06-23",
+  "last_date": "2026-06-24",
   "category_counts": {
     "API Wrappers": 3,
     "Utilities": 4,
     "Data Structures": 2,
     "Games": 3,
     "Mini Apps": 3,
-    "Algorithms": 2,
+    "Algorithms": 3,
     "Data Science": 2,
     "Networking": 3,
     "Databases": 2,
