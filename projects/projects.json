@@ -33,15 +33,16 @@
     "log-analyzer",
     "http-server",
     "dijkstra-shortest-path",
-    "stock-analyzer"
+    "stock-analyzer",
+    "chat-room"
   ],
-  "last_date": "2026-06-25",
+  "last_date": "2026-06-26",
   "category_counts": {
     "API Wrappers": 3,
     "Utilities": 4,
     "Data Structures": 2,
     "Games": 3,
-    "Mini Apps": 3,
+    "Mini Apps": 4,
     "Algorithms": 3,
     "Data Science": 3,
     "Networking": 3,
