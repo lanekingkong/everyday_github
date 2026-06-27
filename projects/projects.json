@@ -34,13 +34,14 @@
     "http-server",
     "dijkstra-shortest-path",
     "stock-analyzer",
-    "chat-room"
+    "chat-room",
+    "bloom-filter"
   ],
-  "last_date": "2026-06-26",
+  "last_date": "2026-06-27",
   "category_counts": {
     "API Wrappers": 3,
     "Utilities": 4,
-    "Data Structures": 2,
+    "Data Structures": 3,
     "Games": 3,
     "Mini Apps": 4,
     "Algorithms": 3,
