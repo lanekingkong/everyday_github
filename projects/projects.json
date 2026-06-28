@@ -35,11 +35,12 @@
     "dijkstra-shortest-path",
     "stock-analyzer",
     "chat-room",
-    "bloom-filter"
+    "bloom-filter",
+    "openai-playground"
   ],
-  "last_date": "2026-06-27",
+  "last_date": "2026-06-28",
   "category_counts": {
-    "API Wrappers": 3,
+    "API Wrappers": 4,
     "Utilities": 4,
     "Data Structures": 3,
     "Games": 3,
