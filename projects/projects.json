@@ -36,9 +36,10 @@
     "stock-analyzer",
     "chat-room",
     "bloom-filter",
-    "openai-playground"
+    "openai-playground",
+    "rate-limiter"
   ],
-  "last_date": "2026-06-28",
+  "last_date": "2026-06-29",
   "category_counts": {
     "API Wrappers": 4,
     "Utilities": 4,
@@ -51,6 +52,6 @@
     "Databases": 2,
     "DevOps": 3,
     "Web Scraping": 3,
-    "System Design": 2
+    "System Design": 3
   }
 }
