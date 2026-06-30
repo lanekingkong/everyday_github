@@ -37,9 +37,10 @@
     "chat-room",
     "bloom-filter",
     "openai-playground",
-    "rate-limiter"
+    "rate-limiter",
+    "query-parser"
   ],
-  "last_date": "2026-06-29",
+  "last_date": "2026-06-30",
   "category_counts": {
     "API Wrappers": 4,
     "Utilities": 4,
@@ -49,7 +50,7 @@
     "Algorithms": 3,
     "Data Science": 3,
     "Networking": 3,
-    "Databases": 2,
+    "Databases": 3,
     "DevOps": 3,
     "Web Scraping": 3,
     "System Design": 3
