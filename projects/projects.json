@@ -38,9 +38,10 @@
     "bloom-filter",
     "openai-playground",
     "rate-limiter",
-    "query-parser"
+    "query-parser",
+    "data-profiler"
   ],
-  "last_date": "2026-06-30",
+  "last_date": "2026-07-01",
   "category_counts": {
     "API Wrappers": 4,
     "Utilities": 4,
@@ -48,7 +49,7 @@
     "Games": 3,
     "Mini Apps": 4,
     "Algorithms": 3,
-    "Data Science": 3,
+    "Data Science": 4,
     "Networking": 3,
     "Databases": 3,
     "DevOps": 3,
