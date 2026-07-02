@@ -39,16 +39,17 @@
     "openai-playground",
     "rate-limiter",
     "query-parser",
-    "data-profiler"
+    "data-profiler",
+    "pathfinding-astar"
   ],
-  "last_date": "2026-07-01",
+  "last_date": "2026-07-02",
   "category_counts": {
     "API Wrappers": 4,
     "Utilities": 4,
     "Data Structures": 3,
     "Games": 3,
     "Mini Apps": 4,
-    "Algorithms": 3,
+    "Algorithms": 4,
     "Data Science": 4,
     "Networking": 3,
     "Databases": 3,
