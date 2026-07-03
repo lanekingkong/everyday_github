@@ -40,9 +40,10 @@
     "rate-limiter",
     "query-parser",
     "data-profiler",
-    "pathfinding-astar"
+    "pathfinding-astar",
+    "job-scraper"
   ],
-  "last_date": "2026-07-02",
+  "last_date": "2026-07-03",
   "category_counts": {
     "API Wrappers": 4,
     "Utilities": 4,
@@ -54,7 +55,7 @@
     "Networking": 3,
     "Databases": 3,
     "DevOps": 3,
-    "Web Scraping": 3,
+    "Web Scraping": 4,
     "System Design": 3
   }
 }

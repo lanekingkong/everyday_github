@@ -1,6 +1,6 @@
 # Job Listing Aggregator
 
-> 🏷 **Web Scraping** · ⚡ Daily Code · 📅 2026-06-12
+> 🏷 **Web Scraping** · ⚡ Daily Code · 📅 2026-07-03
 
 Scrape job boards (LinkedIn, Indeed, Glassdoor), deduplicate, filter by keywords, export CSV.
 
