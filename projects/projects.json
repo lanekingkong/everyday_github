@@ -41,14 +41,15 @@
     "query-parser",
     "data-profiler",
     "pathfinding-astar",
-    "job-scraper"
+    "job-scraper",
+    "wordle-clone"
   ],
-  "last_date": "2026-07-03",
+  "last_date": "2026-07-04",
   "category_counts": {
     "API Wrappers": 4,
     "Utilities": 4,
     "Data Structures": 3,
-    "Games": 3,
+    "Games": 4,
     "Mini Apps": 4,
     "Algorithms": 4,
     "Data Science": 4,
