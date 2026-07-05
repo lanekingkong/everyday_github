@@ -42,11 +42,12 @@
     "data-profiler",
     "pathfinding-astar",
     "job-scraper",
-    "wordle-clone"
+    "wordle-clone",
+    "github-api-wrapper"
   ],
-  "last_date": "2026-07-04",
+  "last_date": "2026-07-05",
   "category_counts": {
-    "API Wrappers": 4,
+    "API Wrappers": 5,
     "Utilities": 4,
     "Data Structures": 3,
     "Games": 4,
