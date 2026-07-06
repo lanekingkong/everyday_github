@@ -43,9 +43,10 @@
     "pathfinding-astar",
     "job-scraper",
     "wordle-clone",
-    "github-api-wrapper"
+    "github-api-wrapper",
+    "ci-cd-simulator"
   ],
-  "last_date": "2026-07-05",
+  "last_date": "2026-07-06",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 4,
@@ -56,7 +57,7 @@
     "Data Science": 4,
     "Networking": 3,
     "Databases": 3,
-    "DevOps": 3,
+    "DevOps": 4,
     "Web Scraping": 4,
     "System Design": 3
   }
