@@ -44,13 +44,14 @@
     "job-scraper",
     "wordle-clone",
     "github-api-wrapper",
-    "ci-cd-simulator"
+    "ci-cd-simulator",
+    "lru-cache"
   ],
-  "last_date": "2026-07-06",
+  "last_date": "2026-07-07",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 4,
-    "Data Structures": 3,
+    "Data Structures": 4,
     "Games": 4,
     "Mini Apps": 4,
     "Algorithms": 4,
