@@ -45,9 +45,10 @@
     "wordle-clone",
     "github-api-wrapper",
     "ci-cd-simulator",
-    "lru-cache"
+    "lru-cache",
+    "packet-sniffer"
   ],
-  "last_date": "2026-07-07",
+  "last_date": "2026-07-08",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 4,
@@ -56,7 +57,7 @@
     "Mini Apps": 4,
     "Algorithms": 4,
     "Data Science": 4,
-    "Networking": 3,
+    "Networking": 4,
     "Databases": 3,
     "DevOps": 4,
     "Web Scraping": 4,
