@@ -46,15 +46,16 @@
     "github-api-wrapper",
     "ci-cd-simulator",
     "lru-cache",
-    "packet-sniffer"
+    "packet-sniffer",
+    "markdown-note-app"
   ],
-  "last_date": "2026-07-08",
+  "last_date": "2026-07-09",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 4,
     "Data Structures": 4,
     "Games": 4,
-    "Mini Apps": 4,
+    "Mini Apps": 5,
     "Algorithms": 4,
     "Data Science": 4,
     "Networking": 4,
