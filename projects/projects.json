@@ -47,16 +47,17 @@
     "ci-cd-simulator",
     "lru-cache",
     "packet-sniffer",
-    "markdown-note-app"
+    "markdown-note-app",
+    "sorting-visualizer"
   ],
-  "last_date": "2026-07-09",
+  "last_date": "2026-07-10",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 4,
     "Data Structures": 4,
     "Games": 4,
     "Mini Apps": 5,
-    "Algorithms": 4,
+    "Algorithms": 5,
     "Data Science": 4,
     "Networking": 4,
     "Databases": 3,

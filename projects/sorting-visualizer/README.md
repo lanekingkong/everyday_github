@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualizer
 
-> 🏷 **Algorithms** · ⚡ Daily Code · 📅 2026-05-28
+> 🏷 **Algorithms** · ⚡ Daily Code · 📅 2026-07-10
 
 Interactive visualization of bubble, merge, quick, and insertion sort with real-time step counting.
 
