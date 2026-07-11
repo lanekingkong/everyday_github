@@ -48,12 +48,13 @@
     "lru-cache",
     "packet-sniffer",
     "markdown-note-app",
-    "sorting-visualizer"
+    "sorting-visualizer",
+    "json-diff-tool"
   ],
-  "last_date": "2026-07-10",
+  "last_date": "2026-07-11",
   "category_counts": {
     "API Wrappers": 5,
-    "Utilities": 4,
+    "Utilities": 5,
     "Data Structures": 4,
     "Games": 4,
     "Mini Apps": 5,
