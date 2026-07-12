@@ -49,12 +49,13 @@
     "packet-sniffer",
     "markdown-note-app",
     "sorting-visualizer",
-    "json-diff-tool"
+    "json-diff-tool",
+    "env-manager"
   ],
-  "last_date": "2026-07-11",
+  "last_date": "2026-07-12",
   "category_counts": {
     "API Wrappers": 5,
-    "Utilities": 5,
+    "Utilities": 6,
     "Data Structures": 4,
     "Games": 4,
     "Mini Apps": 5,
