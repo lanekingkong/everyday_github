@@ -51,9 +51,10 @@
     "sorting-visualizer",
     "json-diff-tool",
     "env-manager",
-    "trie-autocomplete"
+    "trie-autocomplete",
+    "key-value-store"
   ],
-  "last_date": "2026-07-13",
+  "last_date": "2026-07-14",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 6,
@@ -63,7 +64,7 @@
     "Algorithms": 5,
     "Data Science": 4,
     "Networking": 4,
-    "Databases": 3,
+    "Databases": 4,
     "DevOps": 4,
     "Web Scraping": 4,
     "System Design": 3
