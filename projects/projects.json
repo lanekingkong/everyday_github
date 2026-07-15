@@ -52,9 +52,10 @@
     "json-diff-tool",
     "env-manager",
     "trie-autocomplete",
-    "key-value-store"
+    "key-value-store",
+    "rate-limiter"
   ],
-  "last_date": "2026-07-14",
+  "last_date": "2026-07-15",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 6,
@@ -67,6 +68,6 @@
     "Databases": 4,
     "DevOps": 4,
     "Web Scraping": 4,
-    "System Design": 3
+    "System Design": 4
   }
 }
