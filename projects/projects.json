@@ -53,9 +53,10 @@
     "env-manager",
     "trie-autocomplete",
     "key-value-store",
-    "rate-limiter"
+    "rate-limiter",
+    "hn-scraper"
   ],
-  "last_date": "2026-07-15",
+  "last_date": "2026-07-16",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 6,
@@ -67,7 +68,7 @@
     "Networking": 4,
     "Databases": 4,
     "DevOps": 4,
-    "Web Scraping": 4,
+    "Web Scraping": 5,
     "System Design": 4
   }
 }
