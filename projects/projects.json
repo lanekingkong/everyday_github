@@ -54,9 +54,10 @@
     "trie-autocomplete",
     "key-value-store",
     "rate-limiter",
-    "hn-scraper"
+    "hn-scraper",
+    "consistent-hashing"
   ],
-  "last_date": "2026-07-16",
+  "last_date": "2026-07-17",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 6,
@@ -69,6 +70,6 @@
     "Databases": 4,
     "DevOps": 4,
     "Web Scraping": 5,
-    "System Design": 4
+    "System Design": 5
   }
 }
