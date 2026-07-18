@@ -55,14 +55,15 @@
     "key-value-store",
     "rate-limiter",
     "hn-scraper",
-    "consistent-hashing"
+    "consistent-hashing",
+    "terminal-snake"
   ],
-  "last_date": "2026-07-17",
+  "last_date": "2026-07-18",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 6,
     "Data Structures": 5,
-    "Games": 4,
+    "Games": 5,
     "Mini Apps": 5,
     "Algorithms": 5,
     "Data Science": 4,
