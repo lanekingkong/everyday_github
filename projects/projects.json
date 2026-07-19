@@ -56,13 +56,14 @@
     "rate-limiter",
     "hn-scraper",
     "consistent-hashing",
-    "terminal-snake"
+    "terminal-snake",
+    "bloom-filter"
   ],
-  "last_date": "2026-07-18",
+  "last_date": "2026-07-19",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 6,
-    "Data Structures": 5,
+    "Data Structures": 6,
     "Games": 5,
     "Mini Apps": 5,
     "Algorithms": 5,
