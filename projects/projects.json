@@ -58,9 +58,10 @@
     "consistent-hashing",
     "terminal-snake",
     "bloom-filter",
-    "query-parser"
+    "query-parser",
+    "http-server"
   ],
-  "last_date": "2026-07-20",
+  "last_date": "2026-07-21",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 6,
@@ -69,7 +70,7 @@
     "Mini Apps": 5,
     "Algorithms": 5,
     "Data Science": 4,
-    "Networking": 4,
+    "Networking": 5,
     "Databases": 5,
     "DevOps": 4,
     "Web Scraping": 5,
