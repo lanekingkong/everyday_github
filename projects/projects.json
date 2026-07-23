@@ -60,14 +60,15 @@
     "bloom-filter",
     "query-parser",
     "http-server",
-    "ci-cd-simulator"
+    "ci-cd-simulator",
+    "text-adventure"
   ],
-  "last_date": "2026-07-22",
+  "last_date": "2026-07-23",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 6,
     "Data Structures": 6,
-    "Games": 5,
+    "Games": 6,
     "Mini Apps": 5,
     "Algorithms": 5,
     "Data Science": 4,
