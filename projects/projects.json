@@ -61,15 +61,16 @@
     "query-parser",
     "http-server",
     "ci-cd-simulator",
-    "text-adventure"
+    "text-adventure",
+    "url-shortener"
   ],
-  "last_date": "2026-07-23",
+  "last_date": "2026-07-24",
   "category_counts": {
     "API Wrappers": 5,
     "Utilities": 6,
     "Data Structures": 6,
     "Games": 6,
-    "Mini Apps": 5,
+    "Mini Apps": 6,
     "Algorithms": 5,
     "Data Science": 4,
     "Networking": 5,
