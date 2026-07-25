@@ -62,11 +62,12 @@
     "http-server",
     "ci-cd-simulator",
     "text-adventure",
-    "url-shortener"
+    "url-shortener",
+    "github-api-wrapper"
   ],
-  "last_date": "2026-07-24",
+  "last_date": "2026-07-25",
   "category_counts": {
-    "API Wrappers": 5,
+    "API Wrappers": 6,
     "Utilities": 6,
     "Data Structures": 6,
     "Games": 6,
