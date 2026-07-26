@@ -63,12 +63,13 @@
     "ci-cd-simulator",
     "text-adventure",
     "url-shortener",
-    "github-api-wrapper"
+    "github-api-wrapper",
+    "markdown-to-html"
   ],
-  "last_date": "2026-07-25",
+  "last_date": "2026-07-26",
   "category_counts": {
     "API Wrappers": 6,
-    "Utilities": 6,
+    "Utilities": 7,
     "Data Structures": 6,
     "Games": 6,
     "Mini Apps": 6,
