@@ -65,9 +65,10 @@
     "url-shortener",
     "github-api-wrapper",
     "markdown-to-html",
-    "stock-analyzer"
+    "stock-analyzer",
+    "job-scraper"
   ],
-  "last_date": "2026-07-27",
+  "last_date": "2026-07-28",
   "category_counts": {
     "API Wrappers": 6,
     "Utilities": 7,
@@ -79,7 +80,7 @@
     "Networking": 5,
     "Databases": 5,
     "DevOps": 5,
-    "Web Scraping": 5,
+    "Web Scraping": 6,
     "System Design": 5
   }
 }
