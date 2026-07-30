@@ -67,9 +67,10 @@
     "markdown-to-html",
     "stock-analyzer",
     "job-scraper",
-    "data-profiler"
+    "data-profiler",
+    "key-value-store"
   ],
-  "last_date": "2026-07-29",
+  "last_date": "2026-07-30",
   "category_counts": {
     "API Wrappers": 6,
     "Utilities": 7,
@@ -79,7 +80,7 @@
     "Algorithms": 5,
     "Data Science": 6,
     "Networking": 5,
-    "Databases": 5,
+    "Databases": 6,
     "DevOps": 5,
     "Web Scraping": 6,
     "System Design": 5
