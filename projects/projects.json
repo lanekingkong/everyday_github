@@ -69,15 +69,16 @@
     "job-scraper",
     "data-profiler",
     "key-value-store",
-    "log-analyzer"
+    "log-analyzer",
+    "weather-cli"
   ],
-  "last_date": "2026-07-31",
+  "last_date": "2026-08-01",
   "category_counts": {
     "API Wrappers": 6,
     "Utilities": 7,
     "Data Structures": 6,
     "Games": 6,
-    "Mini Apps": 6,
+    "Mini Apps": 7,
     "Algorithms": 5,
     "Data Science": 6,
     "Networking": 5,
