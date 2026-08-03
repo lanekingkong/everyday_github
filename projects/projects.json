@@ -71,9 +71,10 @@
     "key-value-store",
     "log-analyzer",
     "weather-cli",
-    "openai-playground"
+    "openai-playground",
+    "docker-healthcheck"
   ],
-  "last_date": "2026-08-02",
+  "last_date": "2026-08-03",
   "category_counts": {
     "API Wrappers": 7,
     "Utilities": 7,
@@ -84,7 +85,7 @@
     "Data Science": 6,
     "Networking": 5,
     "Databases": 6,
-    "DevOps": 6,
+    "DevOps": 7,
     "Web Scraping": 6,
     "System Design": 5
   }
