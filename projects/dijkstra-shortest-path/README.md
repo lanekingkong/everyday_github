@@ -1,6 +1,6 @@
 # Dijkstra's Shortest Path on Real Map Data
 
-> 🏷 **Algorithms** · ⚡ Daily Code · 📅 2026-06-24
+> 🏷 **Algorithms** · ⚡ Daily Code · 📅 2026-08-06
 
 Find shortest routes on city graph data with priority-queue optimization and path reconstruction.
 
