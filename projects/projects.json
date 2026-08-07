@@ -75,14 +75,15 @@
     "docker-healthcheck",
     "packet-sniffer",
     "consistent-hashing",
-    "dijkstra-shortest-path"
+    "dijkstra-shortest-path",
+    "wordle-clone"
   ],
-  "last_date": "2026-08-06",
+  "last_date": "2026-08-07",
   "category_counts": {
     "API Wrappers": 7,
     "Utilities": 7,
     "Data Structures": 6,
-    "Games": 6,
+    "Games": 7,
     "Mini Apps": 7,
     "Algorithms": 6,
     "Data Science": 6,
