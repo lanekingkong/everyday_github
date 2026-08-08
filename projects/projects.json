@@ -76,12 +76,13 @@
     "packet-sniffer",
     "consistent-hashing",
     "dijkstra-shortest-path",
-    "wordle-clone"
+    "wordle-clone",
+    "file-organizer"
   ],
-  "last_date": "2026-08-07",
+  "last_date": "2026-08-08",
   "category_counts": {
     "API Wrappers": 7,
-    "Utilities": 7,
+    "Utilities": 8,
     "Data Structures": 6,
     "Games": 7,
     "Mini Apps": 7,
