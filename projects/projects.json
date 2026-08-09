@@ -77,13 +77,14 @@
     "consistent-hashing",
     "dijkstra-shortest-path",
     "wordle-clone",
-    "file-organizer"
+    "file-organizer",
+    "bloom-filter"
   ],
-  "last_date": "2026-08-08",
+  "last_date": "2026-08-09",
   "category_counts": {
     "API Wrappers": 7,
     "Utilities": 8,
-    "Data Structures": 6,
+    "Data Structures": 7,
     "Games": 7,
     "Mini Apps": 7,
     "Algorithms": 6,
