@@ -79,16 +79,17 @@
     "wordle-clone",
     "file-organizer",
     "bloom-filter",
-    "hn-scraper"
+    "hn-scraper",
+    "sorting-visualizer"
   ],
-  "last_date": "2026-08-10",
+  "last_date": "2026-08-11",
   "category_counts": {
     "API Wrappers": 7,
     "Utilities": 8,
     "Data Structures": 7,
     "Games": 7,
     "Mini Apps": 7,
-    "Algorithms": 6,
+    "Algorithms": 7,
     "Data Science": 6,
     "Networking": 6,
     "Databases": 6,
