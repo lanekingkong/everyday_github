@@ -84,11 +84,12 @@
     "rate-limiter",
     "stock-analyzer",
     "price-tracker",
-    "pomodoro-timer"
+    "pomodoro-timer",
+    "github-api-wrapper"
   ],
-  "last_date": "2026-08-15",
+  "last_date": "2026-08-16",
   "category_counts": {
-    "API Wrappers": 7,
+    "API Wrappers": 8,
     "Utilities": 8,
     "Data Structures": 7,
     "Games": 7,
