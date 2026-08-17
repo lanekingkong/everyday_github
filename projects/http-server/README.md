@@ -1,6 +1,6 @@
 # HTTP Server from Scratch
 
-> 🏷 **Networking** · ⚡ Daily Code · 📅 2026-07-21
+> 🏷 **Networking** · ⚡ Daily Code · 📅 2026-08-17
 
 Build a minimal HTTP/1.1 server using raw sockets — routing, static files, middleware, keep-alive.
 
