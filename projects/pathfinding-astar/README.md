@@ -1,6 +1,6 @@
 # A* Pathfinding Visualizer
 
-> 🏷 **Algorithms** · ⚡ Daily Code · 📅 2026-07-02
+> 🏷 **Algorithms** · ⚡ Daily Code · 📅 2026-08-20
 
 Grid-based A* pathfinding with obstacles, diagonal movement support, and heuristic comparison.
 

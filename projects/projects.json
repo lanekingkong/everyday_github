@@ -88,16 +88,17 @@
     "github-api-wrapper",
     "http-server",
     "text-classifier",
-    "log-analyzer"
+    "log-analyzer",
+    "pathfinding-astar"
   ],
-  "last_date": "2026-08-19",
+  "last_date": "2026-08-20",
   "category_counts": {
     "API Wrappers": 8,
     "Utilities": 8,
     "Data Structures": 7,
     "Games": 7,
     "Mini Apps": 8,
-    "Algorithms": 7,
+    "Algorithms": 8,
     "Data Science": 8,
     "Networking": 7,
     "Databases": 6,
