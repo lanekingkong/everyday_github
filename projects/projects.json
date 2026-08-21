@@ -89,14 +89,15 @@
     "http-server",
     "text-classifier",
     "log-analyzer",
-    "pathfinding-astar"
+    "pathfinding-astar",
+    "text-adventure"
   ],
-  "last_date": "2026-08-20",
+  "last_date": "2026-08-21",
   "category_counts": {
     "API Wrappers": 8,
     "Utilities": 8,
     "Data Structures": 7,
-    "Games": 7,
+    "Games": 8,
     "Mini Apps": 8,
     "Algorithms": 8,
     "Data Science": 8,
