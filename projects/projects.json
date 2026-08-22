@@ -90,12 +90,13 @@
     "text-classifier",
     "log-analyzer",
     "pathfinding-astar",
-    "text-adventure"
+    "text-adventure",
+    "password-generator"
   ],
-  "last_date": "2026-08-21",
+  "last_date": "2026-08-22",
   "category_counts": {
     "API Wrappers": 8,
-    "Utilities": 8,
+    "Utilities": 9,
     "Data Structures": 7,
     "Games": 8,
     "Mini Apps": 8,
