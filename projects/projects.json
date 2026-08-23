@@ -91,15 +91,16 @@
     "log-analyzer",
     "pathfinding-astar",
     "text-adventure",
-    "password-generator"
+    "password-generator",
+    "weather-cli"
   ],
-  "last_date": "2026-08-22",
+  "last_date": "2026-08-23",
   "category_counts": {
     "API Wrappers": 8,
     "Utilities": 9,
     "Data Structures": 7,
     "Games": 8,
-    "Mini Apps": 8,
+    "Mini Apps": 9,
     "Algorithms": 8,
     "Data Science": 8,
     "Networking": 7,
