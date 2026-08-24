@@ -92,9 +92,10 @@
     "pathfinding-astar",
     "text-adventure",
     "password-generator",
-    "weather-cli"
+    "weather-cli",
+    "query-parser"
   ],
-  "last_date": "2026-08-23",
+  "last_date": "2026-08-24",
   "category_counts": {
     "API Wrappers": 8,
     "Utilities": 9,
@@ -104,7 +105,7 @@
     "Algorithms": 8,
     "Data Science": 8,
     "Networking": 7,
-    "Databases": 6,
+    "Databases": 7,
     "DevOps": 8,
     "Web Scraping": 8,
     "System Design": 7
