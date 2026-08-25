@@ -1,6 +1,6 @@
 # OpenAI API Playground CLI
 
-> 🏷 **API Wrappers** · ⚡ Daily Code · 📅 2026-08-02
+> 🏷 **API Wrappers** · ⚡ Daily Code · 📅 2026-08-25
 
 Interactive CLI to experiment with GPT models — chat, streaming, function calling, token counting.
 

@@ -93,11 +93,12 @@
     "text-adventure",
     "password-generator",
     "weather-cli",
-    "query-parser"
+    "query-parser",
+    "openai-playground"
   ],
-  "last_date": "2026-08-24",
+  "last_date": "2026-08-25",
   "category_counts": {
-    "API Wrappers": 8,
+    "API Wrappers": 9,
     "Utilities": 9,
     "Data Structures": 7,
     "Games": 8,
