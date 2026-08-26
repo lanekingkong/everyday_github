@@ -94,9 +94,10 @@
     "password-generator",
     "weather-cli",
     "query-parser",
-    "openai-playground"
+    "openai-playground",
+    "consistent-hashing"
   ],
-  "last_date": "2026-08-25",
+  "last_date": "2026-08-26",
   "category_counts": {
     "API Wrappers": 9,
     "Utilities": 9,
@@ -109,6 +110,6 @@
     "Databases": 7,
     "DevOps": 8,
     "Web Scraping": 8,
-    "System Design": 7
+    "System Design": 8
   }
 }
