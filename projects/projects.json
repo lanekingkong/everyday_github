@@ -96,16 +96,17 @@
     "query-parser",
     "openai-playground",
     "consistent-hashing",
-    "packet-sniffer"
+    "packet-sniffer",
+    "dijkstra-shortest-path"
   ],
-  "last_date": "2026-08-27",
+  "last_date": "2026-08-28",
   "category_counts": {
     "API Wrappers": 9,
     "Utilities": 9,
     "Data Structures": 7,
     "Games": 8,
     "Mini Apps": 9,
-    "Algorithms": 8,
+    "Algorithms": 9,
     "Data Science": 8,
     "Networking": 8,
     "Databases": 7,
