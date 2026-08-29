@@ -97,9 +97,10 @@
     "openai-playground",
     "consistent-hashing",
     "packet-sniffer",
-    "dijkstra-shortest-path"
+    "dijkstra-shortest-path",
+    "data-profiler"
   ],
-  "last_date": "2026-08-28",
+  "last_date": "2026-08-29",
   "category_counts": {
     "API Wrappers": 9,
     "Utilities": 9,
@@ -107,7 +108,7 @@
     "Games": 8,
     "Mini Apps": 9,
     "Algorithms": 9,
-    "Data Science": 8,
+    "Data Science": 9,
     "Networking": 8,
     "Databases": 7,
     "DevOps": 8,
