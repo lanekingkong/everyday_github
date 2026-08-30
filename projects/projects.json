@@ -98,9 +98,10 @@
     "consistent-hashing",
     "packet-sniffer",
     "dijkstra-shortest-path",
-    "data-profiler"
+    "data-profiler",
+    "hn-scraper"
   ],
-  "last_date": "2026-08-29",
+  "last_date": "2026-08-30",
   "category_counts": {
     "API Wrappers": 9,
     "Utilities": 9,
@@ -112,7 +113,7 @@
     "Networking": 8,
     "Databases": 7,
     "DevOps": 8,
-    "Web Scraping": 8,
+    "Web Scraping": 9,
     "System Design": 8
   }
 }
