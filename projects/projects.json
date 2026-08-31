@@ -99,9 +99,10 @@
     "packet-sniffer",
     "dijkstra-shortest-path",
     "data-profiler",
-    "hn-scraper"
+    "hn-scraper",
+    "key-value-store"
   ],
-  "last_date": "2026-08-30",
+  "last_date": "2026-08-31",
   "category_counts": {
     "API Wrappers": 9,
     "Utilities": 9,
@@ -111,7 +112,7 @@
     "Algorithms": 9,
     "Data Science": 9,
     "Networking": 8,
-    "Databases": 7,
+    "Databases": 8,
     "DevOps": 8,
     "Web Scraping": 9,
     "System Design": 8
