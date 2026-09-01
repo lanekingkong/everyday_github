@@ -100,14 +100,15 @@
     "dijkstra-shortest-path",
     "data-profiler",
     "hn-scraper",
-    "key-value-store"
+    "key-value-store",
+    "wordle-clone"
   ],
-  "last_date": "2026-08-31",
+  "last_date": "2026-09-01",
   "category_counts": {
     "API Wrappers": 9,
     "Utilities": 9,
     "Data Structures": 7,
-    "Games": 8,
+    "Games": 9,
     "Mini Apps": 9,
     "Algorithms": 9,
     "Data Science": 9,
