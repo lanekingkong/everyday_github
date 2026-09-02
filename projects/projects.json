@@ -101,13 +101,14 @@
     "data-profiler",
     "hn-scraper",
     "key-value-store",
-    "wordle-clone"
+    "wordle-clone",
+    "bloom-filter"
   ],
-  "last_date": "2026-09-01",
+  "last_date": "2026-09-02",
   "category_counts": {
     "API Wrappers": 9,
     "Utilities": 9,
-    "Data Structures": 7,
+    "Data Structures": 8,
     "Games": 9,
     "Mini Apps": 9,
     "Algorithms": 9,
