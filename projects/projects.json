@@ -102,13 +102,14 @@
     "hn-scraper",
     "key-value-store",
     "wordle-clone",
-    "bloom-filter"
+    "bloom-filter",
+    "trie-autocomplete"
   ],
-  "last_date": "2026-09-02",
+  "last_date": "2026-09-03",
   "category_counts": {
     "API Wrappers": 9,
     "Utilities": 9,
-    "Data Structures": 8,
+    "Data Structures": 9,
     "Games": 9,
     "Mini Apps": 9,
     "Algorithms": 9,
