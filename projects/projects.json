@@ -107,9 +107,10 @@
     "log-analyzer",
     "cli-todo",
     "file-organizer",
-    "docker-healthcheck"
+    "docker-healthcheck",
+    "port-scanner"
   ],
-  "last_date": "2026-09-07",
+  "last_date": "2026-09-08",
   "category_counts": {
     "API Wrappers": 9,
     "Utilities": 10,
@@ -118,7 +119,7 @@
     "Mini Apps": 10,
     "Algorithms": 9,
     "Data Science": 9,
-    "Networking": 8,
+    "Networking": 9,
     "Databases": 8,
     "DevOps": 10,
     "Web Scraping": 9,
