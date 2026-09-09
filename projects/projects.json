@@ -108,9 +108,10 @@
     "cli-todo",
     "file-organizer",
     "docker-healthcheck",
-    "port-scanner"
+    "port-scanner",
+    "price-tracker"
   ],
-  "last_date": "2026-09-08",
+  "last_date": "2026-09-09",
   "category_counts": {
     "API Wrappers": 9,
     "Utilities": 10,
@@ -122,7 +123,7 @@
     "Networking": 9,
     "Databases": 8,
     "DevOps": 10,
-    "Web Scraping": 9,
+    "Web Scraping": 10,
     "System Design": 8
   }
 }
