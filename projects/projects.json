@@ -109,16 +109,17 @@
     "file-organizer",
     "docker-healthcheck",
     "port-scanner",
-    "price-tracker"
+    "price-tracker",
+    "pathfinding-astar"
   ],
-  "last_date": "2026-09-09",
+  "last_date": "2026-09-10",
   "category_counts": {
     "API Wrappers": 9,
     "Utilities": 10,
     "Data Structures": 9,
     "Games": 9,
     "Mini Apps": 10,
-    "Algorithms": 9,
+    "Algorithms": 10,
     "Data Science": 9,
     "Networking": 9,
     "Databases": 8,
