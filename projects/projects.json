@@ -111,11 +111,12 @@
     "port-scanner",
     "price-tracker",
     "pathfinding-astar",
-    "consistent-hashing"
+    "consistent-hashing",
+    "github-api-wrapper"
   ],
-  "last_date": "2026-09-11",
+  "last_date": "2026-09-12",
   "category_counts": {
-    "API Wrappers": 9,
+    "API Wrappers": 10,
     "Utilities": 10,
     "Data Structures": 9,
     "Games": 9,
