@@ -112,12 +112,13 @@
     "price-tracker",
     "pathfinding-astar",
     "consistent-hashing",
-    "github-api-wrapper"
+    "github-api-wrapper",
+    "markdown-to-html"
   ],
-  "last_date": "2026-09-12",
+  "last_date": "2026-09-13",
   "category_counts": {
     "API Wrappers": 10,
-    "Utilities": 10,
+    "Utilities": 11,
     "Data Structures": 9,
     "Games": 9,
     "Mini Apps": 10,
