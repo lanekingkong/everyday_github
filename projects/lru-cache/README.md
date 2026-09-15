@@ -1,6 +1,6 @@
 # LRU Cache from Scratch
 
-> 🏷 **Data Structures** · ⚡ Daily Code · 📅 2026-07-07
+> 🏷 **Data Structures** · ⚡ Daily Code · 📅 2026-09-15
 
 Least Recently Used cache using OrderedDict and doubly-linked list, with O(1) get/put operations.
 

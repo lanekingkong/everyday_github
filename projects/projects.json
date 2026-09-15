@@ -114,13 +114,14 @@
     "consistent-hashing",
     "github-api-wrapper",
     "markdown-to-html",
-    "data-profiler"
+    "data-profiler",
+    "lru-cache"
   ],
-  "last_date": "2026-09-14",
+  "last_date": "2026-09-15",
   "category_counts": {
     "API Wrappers": 10,
     "Utilities": 11,
-    "Data Structures": 9,
+    "Data Structures": 10,
     "Games": 9,
     "Mini Apps": 10,
     "Algorithms": 10,
