@@ -1,6 +1,6 @@
 # Text Adventure Game Engine
 
-> 🏷 **Games** · ⚡ Daily Code · 📅 2026-08-21
+> 🏷 **Games** · ⚡ Daily Code · 📅 2026-09-16
 
 Build your own text adventure — room descriptions, inventory system, NPCs, and a simple scripting language.
 

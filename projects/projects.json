@@ -115,14 +115,15 @@
     "github-api-wrapper",
     "markdown-to-html",
     "data-profiler",
-    "lru-cache"
+    "lru-cache",
+    "text-adventure"
   ],
-  "last_date": "2026-09-15",
+  "last_date": "2026-09-16",
   "category_counts": {
     "API Wrappers": 10,
     "Utilities": 11,
     "Data Structures": 10,
-    "Games": 9,
+    "Games": 10,
     "Mini Apps": 10,
     "Algorithms": 10,
     "Data Science": 10,
