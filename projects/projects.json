@@ -116,9 +116,10 @@
     "markdown-to-html",
     "data-profiler",
     "lru-cache",
-    "text-adventure"
+    "text-adventure",
+    "query-parser"
   ],
-  "last_date": "2026-09-16",
+  "last_date": "2026-09-17",
   "category_counts": {
     "API Wrappers": 10,
     "Utilities": 11,
@@ -128,7 +129,7 @@
     "Algorithms": 10,
     "Data Science": 10,
     "Networking": 9,
-    "Databases": 8,
+    "Databases": 9,
     "DevOps": 10,
     "Web Scraping": 10,
     "System Design": 9

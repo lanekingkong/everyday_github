@@ -1,6 +1,6 @@
 # SQL Query Parser & Optimizer
 
-> 🏷 **Databases** · ⚡ Daily Code · 📅 2026-08-24
+> 🏷 **Databases** · ⚡ Daily Code · 📅 2026-09-17
 
 Parse SQL SELECT statements into AST, apply basic optimizations (predicate pushdown, index selection).
 
