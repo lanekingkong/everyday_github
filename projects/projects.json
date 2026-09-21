@@ -120,9 +120,10 @@
     "query-parser",
     "job-scraper",
     "wordle-clone",
-    "bloom-filter"
+    "bloom-filter",
+    "rate-limiter"
   ],
-  "last_date": "2026-09-20",
+  "last_date": "2026-09-21",
   "category_counts": {
     "API Wrappers": 10,
     "Utilities": 11,
@@ -135,6 +136,6 @@
     "Databases": 9,
     "DevOps": 10,
     "Web Scraping": 11,
-    "System Design": 9
+    "System Design": 10
   }
 }
