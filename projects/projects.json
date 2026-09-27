@@ -126,9 +126,10 @@
     "text-classifier",
     "ci-cd-simulator",
     "openai-playground",
-    "password-generator"
+    "password-generator",
+    "hn-scraper"
   ],
-  "last_date": "2026-09-26",
+  "last_date": "2026-09-27",
   "category_counts": {
     "API Wrappers": 11,
     "Utilities": 12,
@@ -140,7 +141,7 @@
     "Networking": 9,
     "Databases": 9,
     "DevOps": 11,
-    "Web Scraping": 11,
+    "Web Scraping": 12,
     "System Design": 10
   }
 }
