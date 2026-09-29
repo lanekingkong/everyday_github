@@ -128,15 +128,16 @@
     "openai-playground",
     "password-generator",
     "hn-scraper",
-    "sorting-visualizer"
+    "sorting-visualizer",
+    "cli-todo"
   ],
-  "last_date": "2026-09-28",
+  "last_date": "2026-09-29",
   "category_counts": {
     "API Wrappers": 11,
     "Utilities": 12,
     "Data Structures": 11,
     "Games": 11,
-    "Mini Apps": 11,
+    "Mini Apps": 12,
     "Algorithms": 11,
     "Data Science": 11,
     "Networking": 9,
