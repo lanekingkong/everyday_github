@@ -130,16 +130,17 @@
     "hn-scraper",
     "sorting-visualizer",
     "cli-todo",
-    "log-analyzer"
+    "log-analyzer",
+    "dijkstra-shortest-path"
   ],
-  "last_date": "2026-09-30",
+  "last_date": "2026-10-01",
   "category_counts": {
     "API Wrappers": 11,
     "Utilities": 12,
     "Data Structures": 11,
     "Games": 11,
     "Mini Apps": 12,
-    "Algorithms": 11,
+    "Algorithms": 12,
     "Data Science": 11,
     "Networking": 9,
     "Databases": 9,
