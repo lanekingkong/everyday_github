@@ -1,6 +1,6 @@
 # Persistent Key-Value Store
 
-> 🏷 **Databases** · ⚡ Daily Code · 📅 2026-08-31
+> 🏷 **Databases** · ⚡ Daily Code · 📅 2026-10-02
 
 Build a disk-backed KV store with Write-Ahead Log, SSTables, compaction, and range queries.
 

@@ -131,9 +131,10 @@
     "sorting-visualizer",
     "cli-todo",
     "log-analyzer",
-    "dijkstra-shortest-path"
+    "dijkstra-shortest-path",
+    "key-value-store"
   ],
-  "last_date": "2026-10-01",
+  "last_date": "2026-10-02",
   "category_counts": {
     "API Wrappers": 11,
     "Utilities": 12,
@@ -143,7 +144,7 @@
     "Algorithms": 12,
     "Data Science": 11,
     "Networking": 9,
-    "Databases": 9,
+    "Databases": 10,
     "DevOps": 12,
     "Web Scraping": 12,
     "System Design": 10
