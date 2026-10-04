@@ -133,9 +133,10 @@
     "log-analyzer",
     "dijkstra-shortest-path",
     "key-value-store",
-    "env-manager"
+    "env-manager",
+    "data-profiler"
   ],
-  "last_date": "2026-10-03",
+  "last_date": "2026-10-04",
   "category_counts": {
     "API Wrappers": 11,
     "Utilities": 13,
@@ -143,7 +144,7 @@
     "Games": 11,
     "Mini Apps": 12,
     "Algorithms": 12,
-    "Data Science": 11,
+    "Data Science": 12,
     "Networking": 9,
     "Databases": 10,
     "DevOps": 12,
