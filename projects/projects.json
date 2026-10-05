@@ -134,14 +134,15 @@
     "dijkstra-shortest-path",
     "key-value-store",
     "env-manager",
-    "data-profiler"
+    "data-profiler",
+    "wordle-clone"
   ],
-  "last_date": "2026-10-04",
+  "last_date": "2026-10-05",
   "category_counts": {
     "API Wrappers": 11,
     "Utilities": 13,
     "Data Structures": 11,
-    "Games": 11,
+    "Games": 12,
     "Mini Apps": 12,
     "Algorithms": 12,
     "Data Science": 12,
