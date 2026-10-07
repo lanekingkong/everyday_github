@@ -136,9 +136,10 @@
     "env-manager",
     "data-profiler",
     "wordle-clone",
-    "github-api-wrapper"
+    "github-api-wrapper",
+    "query-parser"
   ],
-  "last_date": "2026-10-06",
+  "last_date": "2026-10-07",
   "category_counts": {
     "API Wrappers": 12,
     "Utilities": 13,
@@ -148,7 +149,7 @@
     "Algorithms": 12,
     "Data Science": 12,
     "Networking": 9,
-    "Databases": 10,
+    "Databases": 11,
     "DevOps": 12,
     "Web Scraping": 12,
     "System Design": 10
