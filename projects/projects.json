@@ -137,13 +137,14 @@
     "data-profiler",
     "wordle-clone",
     "github-api-wrapper",
-    "query-parser"
+    "query-parser",
+    "lru-cache"
   ],
-  "last_date": "2026-10-07",
+  "last_date": "2026-10-08",
   "category_counts": {
     "API Wrappers": 12,
     "Utilities": 13,
-    "Data Structures": 11,
+    "Data Structures": 12,
     "Games": 12,
     "Mini Apps": 12,
     "Algorithms": 12,
