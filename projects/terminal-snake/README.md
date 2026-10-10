@@ -1,6 +1,6 @@
 # Terminal Snake Game
 
-> 🏷 **Games** · ⚡ Daily Code · 📅 2026-07-18
+> 🏷 **Games** · ⚡ Daily Code · 📅 2026-10-10
 
 Classic Snake in the terminal with keyboard controls, difficulty levels, high scores, and smooth rendering.
 

@@ -139,14 +139,15 @@
     "github-api-wrapper",
     "query-parser",
     "lru-cache",
-    "trie-autocomplete"
+    "trie-autocomplete",
+    "terminal-snake"
   ],
-  "last_date": "2026-10-09",
+  "last_date": "2026-10-10",
   "category_counts": {
     "API Wrappers": 12,
     "Utilities": 13,
     "Data Structures": 13,
-    "Games": 12,
+    "Games": 13,
     "Mini Apps": 12,
     "Algorithms": 12,
     "Data Science": 12,
