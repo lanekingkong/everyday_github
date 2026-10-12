@@ -141,15 +141,16 @@
     "lru-cache",
     "trie-autocomplete",
     "terminal-snake",
-    "git-stats"
+    "git-stats",
+    "url-shortener"
   ],
-  "last_date": "2026-10-11",
+  "last_date": "2026-10-12",
   "category_counts": {
     "API Wrappers": 12,
     "Utilities": 14,
     "Data Structures": 13,
     "Games": 13,
-    "Mini Apps": 12,
+    "Mini Apps": 13,
     "Algorithms": 12,
     "Data Science": 12,
     "Networking": 9,

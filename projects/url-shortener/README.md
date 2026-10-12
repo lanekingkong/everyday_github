@@ -1,6 +1,6 @@
 # URL Shortener with FastAPI
 
-> 🏷 **Mini Apps** · ⚡ Daily Code · 📅 2026-07-24
+> 🏷 **Mini Apps** · ⚡ Daily Code · 📅 2026-10-12
 
 Self-hosted URL shortener with Base62 encoding, click analytics, custom slugs, and Redis caching.
 
