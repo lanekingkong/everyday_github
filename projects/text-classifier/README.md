@@ -1,6 +1,6 @@
 # Text Classifier with TF-IDF + Naive Bayes
 
-> 🏷 **Data Science** · ⚡ Daily Code · 📅 2026-09-23
+> 🏷 **Data Science** · ⚡ Daily Code · 📅 2026-10-14
 
 Train a text classifier from scratch — tokenization, TF-IDF vectorization, Naive Bayes, evaluation.
 
