@@ -144,9 +144,10 @@
     "git-stats",
     "url-shortener",
     "docker-healthcheck",
-    "text-classifier"
+    "text-classifier",
+    "port-scanner"
   ],
-  "last_date": "2026-10-14",
+  "last_date": "2026-10-15",
   "category_counts": {
     "API Wrappers": 12,
     "Utilities": 14,
@@ -155,7 +156,7 @@
     "Mini Apps": 13,
     "Algorithms": 12,
     "Data Science": 13,
-    "Networking": 9,
+    "Networking": 10,
     "Databases": 11,
     "DevOps": 13,
     "Web Scraping": 12,
