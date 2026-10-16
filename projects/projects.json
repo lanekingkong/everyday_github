@@ -145,9 +145,10 @@
     "url-shortener",
     "docker-healthcheck",
     "text-classifier",
-    "port-scanner"
+    "port-scanner",
+    "job-scraper"
   ],
-  "last_date": "2026-10-15",
+  "last_date": "2026-10-16",
   "category_counts": {
     "API Wrappers": 12,
     "Utilities": 14,
@@ -159,7 +160,7 @@
     "Networking": 10,
     "Databases": 11,
     "DevOps": 13,
-    "Web Scraping": 12,
+    "Web Scraping": 13,
     "System Design": 10
   }
 }
