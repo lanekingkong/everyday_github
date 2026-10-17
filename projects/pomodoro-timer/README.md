@@ -1,6 +1,6 @@
 # Terminal Pomodoro Timer
 
-> 🏷 **Mini Apps** · ⚡ Daily Code · 📅 2026-09-22
+> 🏷 **Mini Apps** · ⚡ Daily Code · 📅 2026-10-17
 
 Beautiful TUI Pomodoro timer with work/break cycles, sound notifications, session logging, and stats.
 
