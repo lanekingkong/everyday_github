@@ -148,16 +148,17 @@
     "port-scanner",
     "job-scraper",
     "pomodoro-timer",
-    "openai-playground"
+    "openai-playground",
+    "pathfinding-astar"
   ],
-  "last_date": "2026-10-18",
+  "last_date": "2026-10-19",
   "category_counts": {
     "API Wrappers": 13,
     "Utilities": 14,
     "Data Structures": 13,
     "Games": 13,
     "Mini Apps": 14,
-    "Algorithms": 12,
+    "Algorithms": 13,
     "Data Science": 13,
     "Networking": 10,
     "Databases": 11,
