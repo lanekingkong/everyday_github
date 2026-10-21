@@ -150,9 +150,10 @@
     "pomodoro-timer",
     "openai-playground",
     "pathfinding-astar",
-    "consistent-hashing"
+    "consistent-hashing",
+    "data-profiler"
   ],
-  "last_date": "2026-10-20",
+  "last_date": "2026-10-21",
   "category_counts": {
     "API Wrappers": 13,
     "Utilities": 14,
@@ -160,7 +161,7 @@
     "Games": 13,
     "Mini Apps": 14,
     "Algorithms": 13,
-    "Data Science": 13,
+    "Data Science": 14,
     "Networking": 10,
     "Databases": 11,
     "DevOps": 13,
