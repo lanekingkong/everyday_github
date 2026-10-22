@@ -151,16 +151,17 @@
     "openai-playground",
     "pathfinding-astar",
     "consistent-hashing",
-    "data-profiler"
+    "data-profiler",
+    "sorting-visualizer"
   ],
-  "last_date": "2026-10-21",
+  "last_date": "2026-10-22",
   "category_counts": {
     "API Wrappers": 13,
     "Utilities": 14,
     "Data Structures": 13,
     "Games": 13,
     "Mini Apps": 14,
-    "Algorithms": 13,
+    "Algorithms": 14,
     "Data Science": 14,
     "Networking": 10,
     "Databases": 11,
