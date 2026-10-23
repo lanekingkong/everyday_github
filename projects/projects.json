@@ -152,11 +152,12 @@
     "pathfinding-astar",
     "consistent-hashing",
     "data-profiler",
-    "sorting-visualizer"
+    "sorting-visualizer",
+    "github-api-wrapper"
   ],
-  "last_date": "2026-10-22",
+  "last_date": "2026-10-23",
   "category_counts": {
-    "API Wrappers": 13,
+    "API Wrappers": 14,
     "Utilities": 14,
     "Data Structures": 13,
     "Games": 13,
