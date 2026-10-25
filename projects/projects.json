@@ -154,14 +154,15 @@
     "data-profiler",
     "sorting-visualizer",
     "github-api-wrapper",
-    "bloom-filter"
+    "bloom-filter",
+    "wordle-clone"
   ],
-  "last_date": "2026-10-24",
+  "last_date": "2026-10-25",
   "category_counts": {
     "API Wrappers": 14,
     "Utilities": 14,
     "Data Structures": 14,
-    "Games": 13,
+    "Games": 14,
     "Mini Apps": 14,
     "Algorithms": 14,
     "Data Science": 14,
