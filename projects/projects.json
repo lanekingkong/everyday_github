@@ -155,9 +155,10 @@
     "sorting-visualizer",
     "github-api-wrapper",
     "bloom-filter",
-    "wordle-clone"
+    "wordle-clone",
+    "price-tracker"
   ],
-  "last_date": "2026-10-25",
+  "last_date": "2026-10-26",
   "category_counts": {
     "API Wrappers": 14,
     "Utilities": 14,
@@ -169,7 +170,7 @@
     "Networking": 10,
     "Databases": 11,
     "DevOps": 13,
-    "Web Scraping": 13,
+    "Web Scraping": 14,
     "System Design": 11
   }
 }
