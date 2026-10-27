@@ -156,12 +156,13 @@
     "github-api-wrapper",
     "bloom-filter",
     "wordle-clone",
-    "price-tracker"
+    "price-tracker",
+    "json-diff-tool"
   ],
-  "last_date": "2026-10-26",
+  "last_date": "2026-10-27",
   "category_counts": {
     "API Wrappers": 14,
-    "Utilities": 14,
+    "Utilities": 15,
     "Data Structures": 14,
     "Games": 14,
     "Mini Apps": 14,
