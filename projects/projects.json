@@ -159,9 +159,10 @@
     "price-tracker",
     "json-diff-tool",
     "log-analyzer",
-    "http-server"
+    "http-server",
+    "rate-limiter"
   ],
-  "last_date": "2026-10-29",
+  "last_date": "2026-10-30",
   "category_counts": {
     "API Wrappers": 14,
     "Utilities": 15,
@@ -174,6 +175,6 @@
     "Databases": 11,
     "DevOps": 14,
     "Web Scraping": 14,
-    "System Design": 11
+    "System Design": 12
   }
 }

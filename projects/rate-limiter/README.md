@@ -1,6 +1,6 @@
 # Rate Limiter — Token Bucket & Sliding Window
 
-> 🏷 **System Design** · ⚡ Daily Code · 📅 2026-09-21
+> 🏷 **System Design** · ⚡ Daily Code · 📅 2026-10-30
 
 Production-grade rate limiter with token bucket, sliding window log, and fixed window counter strategies.
 
