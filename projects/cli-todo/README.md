@@ -1,6 +1,6 @@
 # Terminal Todo App with SQLite
 
-> 🏷 **Mini Apps** · ⚡ Daily Code · 📅 2026-09-29
+> 🏷 **Mini Apps** · ⚡ Daily Code · 📅 2026-10-31
 
 Full-featured CLI task manager with projects, priorities, due dates, and persistent SQLite storage.
 

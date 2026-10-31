@@ -160,15 +160,16 @@
     "json-diff-tool",
     "log-analyzer",
     "http-server",
-    "rate-limiter"
+    "rate-limiter",
+    "cli-todo"
   ],
-  "last_date": "2026-10-30",
+  "last_date": "2026-10-31",
   "category_counts": {
     "API Wrappers": 14,
     "Utilities": 15,
     "Data Structures": 14,
     "Games": 14,
-    "Mini Apps": 14,
+    "Mini Apps": 15,
     "Algorithms": 14,
     "Data Science": 14,
     "Networking": 11,
