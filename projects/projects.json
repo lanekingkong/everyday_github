@@ -161,9 +161,10 @@
     "log-analyzer",
     "http-server",
     "rate-limiter",
-    "cli-todo"
+    "cli-todo",
+    "hn-scraper"
   ],
-  "last_date": "2026-10-31",
+  "last_date": "2026-11-01",
   "category_counts": {
     "API Wrappers": 14,
     "Utilities": 15,
@@ -175,7 +176,7 @@
     "Networking": 11,
     "Databases": 11,
     "DevOps": 14,
-    "Web Scraping": 14,
+    "Web Scraping": 15,
     "System Design": 12
   }
 }
