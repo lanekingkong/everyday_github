@@ -163,14 +163,15 @@
     "rate-limiter",
     "cli-todo",
     "hn-scraper",
-    "stock-analyzer"
+    "stock-analyzer",
+    "text-adventure"
   ],
-  "last_date": "2026-11-02",
+  "last_date": "2026-11-03",
   "category_counts": {
     "API Wrappers": 14,
     "Utilities": 15,
     "Data Structures": 14,
-    "Games": 14,
+    "Games": 15,
     "Mini Apps": 15,
     "Algorithms": 14,
     "Data Science": 15,
