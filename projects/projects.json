@@ -165,11 +165,12 @@
     "hn-scraper",
     "stock-analyzer",
     "text-adventure",
-    "key-value-store"
+    "key-value-store",
+    "openai-playground"
   ],
-  "last_date": "2026-11-04",
+  "last_date": "2026-11-05",
   "category_counts": {
-    "API Wrappers": 14,
+    "API Wrappers": 15,
     "Utilities": 15,
     "Data Structures": 14,
     "Games": 15,
