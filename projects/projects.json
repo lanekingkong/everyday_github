@@ -166,9 +166,10 @@
     "stock-analyzer",
     "text-adventure",
     "key-value-store",
-    "openai-playground"
+    "openai-playground",
+    "packet-sniffer"
   ],
-  "last_date": "2026-11-05",
+  "last_date": "2026-11-06",
   "category_counts": {
     "API Wrappers": 15,
     "Utilities": 15,
@@ -177,7 +178,7 @@
     "Mini Apps": 15,
     "Algorithms": 14,
     "Data Science": 15,
-    "Networking": 11,
+    "Networking": 12,
     "Databases": 12,
     "DevOps": 14,
     "Web Scraping": 15,
