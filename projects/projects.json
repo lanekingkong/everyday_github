@@ -168,9 +168,10 @@
     "key-value-store",
     "openai-playground",
     "packet-sniffer",
-    "git-stats"
+    "git-stats",
+    "data-profiler"
   ],
-  "last_date": "2026-11-07",
+  "last_date": "2026-11-08",
   "category_counts": {
     "API Wrappers": 15,
     "Utilities": 16,
@@ -178,7 +179,7 @@
     "Games": 15,
     "Mini Apps": 15,
     "Algorithms": 14,
-    "Data Science": 15,
+    "Data Science": 16,
     "Networking": 12,
     "Databases": 12,
     "DevOps": 14,
