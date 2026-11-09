@@ -169,16 +169,17 @@
     "openai-playground",
     "packet-sniffer",
     "git-stats",
-    "data-profiler"
+    "data-profiler",
+    "dijkstra-shortest-path"
   ],
-  "last_date": "2026-11-08",
+  "last_date": "2026-11-09",
   "category_counts": {
     "API Wrappers": 15,
     "Utilities": 16,
     "Data Structures": 14,
     "Games": 15,
     "Mini Apps": 15,
-    "Algorithms": 14,
+    "Algorithms": 15,
     "Data Science": 16,
     "Networking": 12,
     "Databases": 12,
