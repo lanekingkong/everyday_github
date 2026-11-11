@@ -170,9 +170,10 @@
     "packet-sniffer",
     "git-stats",
     "data-profiler",
-    "dijkstra-shortest-path"
+    "dijkstra-shortest-path",
+    "ci-cd-simulator"
   ],
-  "last_date": "2026-11-09",
+  "last_date": "2026-11-11",
   "category_counts": {
     "API Wrappers": 15,
     "Utilities": 16,
@@ -183,7 +184,7 @@
     "Data Science": 16,
     "Networking": 12,
     "Databases": 12,
-    "DevOps": 14,
+    "DevOps": 15,
     "Web Scraping": 15,
     "System Design": 12
   }
