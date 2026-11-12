@@ -171,13 +171,14 @@
     "git-stats",
     "data-profiler",
     "dijkstra-shortest-path",
-    "ci-cd-simulator"
+    "ci-cd-simulator",
+    "bloom-filter"
   ],
-  "last_date": "2026-11-11",
+  "last_date": "2026-11-12",
   "category_counts": {
     "API Wrappers": 15,
     "Utilities": 16,
-    "Data Structures": 14,
+    "Data Structures": 15,
     "Games": 15,
     "Mini Apps": 15,
     "Algorithms": 15,
