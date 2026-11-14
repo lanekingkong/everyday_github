@@ -173,15 +173,16 @@
     "dijkstra-shortest-path",
     "ci-cd-simulator",
     "bloom-filter",
-    "pomodoro-timer"
+    "pomodoro-timer",
+    "weather-cli"
   ],
-  "last_date": "2026-11-13",
+  "last_date": "2026-11-14",
   "category_counts": {
     "API Wrappers": 15,
     "Utilities": 16,
     "Data Structures": 15,
     "Games": 15,
-    "Mini Apps": 16,
+    "Mini Apps": 17,
     "Algorithms": 15,
     "Data Science": 16,
     "Networking": 12,

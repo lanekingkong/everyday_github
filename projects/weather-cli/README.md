@@ -1,6 +1,6 @@
 # Beautiful Terminal Weather App
 
-> 🏷 **Mini Apps** · ⚡ Daily Code · 📅 2026-08-23
+> 🏷 **Mini Apps** · ⚡ Daily Code · 📅 2026-11-14
 
 Fetch weather from OpenWeatherMap API, display with ASCII art icons and 5-day forecast charts.
 
