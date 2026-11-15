@@ -174,14 +174,15 @@
     "ci-cd-simulator",
     "bloom-filter",
     "pomodoro-timer",
-    "weather-cli"
+    "weather-cli",
+    "wordle-clone"
   ],
-  "last_date": "2026-11-14",
+  "last_date": "2026-11-15",
   "category_counts": {
     "API Wrappers": 15,
     "Utilities": 16,
     "Data Structures": 15,
-    "Games": 15,
+    "Games": 16,
     "Mini Apps": 17,
     "Algorithms": 15,
     "Data Science": 16,

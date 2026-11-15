@@ -1,6 +1,6 @@
 # Wordle Clone — Terminal Edition
 
-> 🏷 **Games** · ⚡ Daily Code · 📅 2026-10-25
+> 🏷 **Games** · ⚡ Daily Code · 📅 2026-11-15
 
 Full Wordle clone with colored feedback, keyboard hints, word list from official dictionary, and daily challenge mode.
 
