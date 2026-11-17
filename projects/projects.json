@@ -176,9 +176,10 @@
     "pomodoro-timer",
     "weather-cli",
     "wordle-clone",
-    "trie-autocomplete"
+    "trie-autocomplete",
+    "http-server"
   ],
-  "last_date": "2026-11-16",
+  "last_date": "2026-11-17",
   "category_counts": {
     "API Wrappers": 15,
     "Utilities": 16,
@@ -187,7 +188,7 @@
     "Mini Apps": 17,
     "Algorithms": 15,
     "Data Science": 16,
-    "Networking": 12,
+    "Networking": 13,
     "Databases": 12,
     "DevOps": 15,
     "Web Scraping": 15,
