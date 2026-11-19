@@ -1,6 +1,6 @@
 # Hacker News Top Stories Scraper
 
-> 🏷 **Web Scraping** · ⚡ Daily Code · 📅 2026-11-01
+> 🏷 **Web Scraping** · ⚡ Daily Code · 📅 2026-11-19
 
 Scrape HN front page, extract metadata, score trends over time, and export to CSV/JSON.
 

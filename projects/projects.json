@@ -178,9 +178,10 @@
     "wordle-clone",
     "trie-autocomplete",
     "http-server",
-    "log-analyzer"
+    "log-analyzer",
+    "hn-scraper"
   ],
-  "last_date": "2026-11-18",
+  "last_date": "2026-11-19",
   "category_counts": {
     "API Wrappers": 15,
     "Utilities": 16,
@@ -192,7 +193,7 @@
     "Networking": 13,
     "Databases": 12,
     "DevOps": 16,
-    "Web Scraping": 15,
+    "Web Scraping": 16,
     "System Design": 12
   }
 }
