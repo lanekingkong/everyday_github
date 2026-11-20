@@ -179,9 +179,10 @@
     "trie-autocomplete",
     "http-server",
     "log-analyzer",
-    "hn-scraper"
+    "hn-scraper",
+    "consistent-hashing"
   ],
-  "last_date": "2026-11-19",
+  "last_date": "2026-11-20",
   "category_counts": {
     "API Wrappers": 15,
     "Utilities": 16,
@@ -194,6 +195,6 @@
     "Databases": 12,
     "DevOps": 16,
     "Web Scraping": 16,
-    "System Design": 12
+    "System Design": 13
   }
 }
