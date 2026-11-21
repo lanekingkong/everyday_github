@@ -180,12 +180,13 @@
     "http-server",
     "log-analyzer",
     "hn-scraper",
-    "consistent-hashing"
+    "consistent-hashing",
+    "markdown-to-html"
   ],
-  "last_date": "2026-11-20",
+  "last_date": "2026-11-21",
   "category_counts": {
     "API Wrappers": 15,
-    "Utilities": 16,
+    "Utilities": 17,
     "Data Structures": 16,
     "Games": 16,
     "Mini Apps": 17,
