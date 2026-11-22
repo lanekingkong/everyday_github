@@ -181,11 +181,12 @@
     "log-analyzer",
     "hn-scraper",
     "consistent-hashing",
-    "markdown-to-html"
+    "markdown-to-html",
+    "openai-playground"
   ],
-  "last_date": "2026-11-21",
+  "last_date": "2026-11-22",
   "category_counts": {
-    "API Wrappers": 15,
+    "API Wrappers": 16,
     "Utilities": 17,
     "Data Structures": 16,
     "Games": 16,
