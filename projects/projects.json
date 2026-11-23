@@ -182,9 +182,10 @@
     "hn-scraper",
     "consistent-hashing",
     "markdown-to-html",
-    "openai-playground"
+    "openai-playground",
+    "packet-sniffer"
   ],
-  "last_date": "2026-11-22",
+  "last_date": "2026-11-23",
   "category_counts": {
     "API Wrappers": 16,
     "Utilities": 17,
@@ -193,7 +194,7 @@
     "Mini Apps": 17,
     "Algorithms": 15,
     "Data Science": 16,
-    "Networking": 13,
+    "Networking": 14,
     "Databases": 12,
     "DevOps": 16,
     "Web Scraping": 16,
