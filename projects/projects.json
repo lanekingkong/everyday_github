@@ -183,16 +183,17 @@
     "consistent-hashing",
     "markdown-to-html",
     "openai-playground",
-    "packet-sniffer"
+    "packet-sniffer",
+    "sorting-visualizer"
   ],
-  "last_date": "2026-11-23",
+  "last_date": "2026-11-24",
   "category_counts": {
     "API Wrappers": 16,
     "Utilities": 17,
     "Data Structures": 16,
     "Games": 16,
     "Mini Apps": 17,
-    "Algorithms": 15,
+    "Algorithms": 16,
     "Data Science": 16,
     "Networking": 14,
     "Databases": 12,
