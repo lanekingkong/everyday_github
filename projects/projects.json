@@ -184,9 +184,10 @@
     "markdown-to-html",
     "openai-playground",
     "packet-sniffer",
-    "sorting-visualizer"
+    "sorting-visualizer",
+    "query-parser"
   ],
-  "last_date": "2026-11-24",
+  "last_date": "2026-11-25",
   "category_counts": {
     "API Wrappers": 16,
     "Utilities": 17,
@@ -196,7 +197,7 @@
     "Algorithms": 16,
     "Data Science": 16,
     "Networking": 14,
-    "Databases": 12,
+    "Databases": 13,
     "DevOps": 16,
     "Web Scraping": 16,
     "System Design": 13
