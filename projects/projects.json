@@ -185,16 +185,17 @@
     "openai-playground",
     "packet-sniffer",
     "sorting-visualizer",
-    "query-parser"
+    "query-parser",
+    "pathfinding-astar"
   ],
-  "last_date": "2026-11-25",
+  "last_date": "2026-11-26",
   "category_counts": {
     "API Wrappers": 16,
     "Utilities": 17,
     "Data Structures": 16,
     "Games": 16,
     "Mini Apps": 17,
-    "Algorithms": 16,
+    "Algorithms": 17,
     "Data Science": 16,
     "Networking": 14,
     "Databases": 13,
