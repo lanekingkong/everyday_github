@@ -186,9 +186,10 @@
     "packet-sniffer",
     "sorting-visualizer",
     "query-parser",
-    "pathfinding-astar"
+    "pathfinding-astar",
+    "rate-limiter"
   ],
-  "last_date": "2026-11-26",
+  "last_date": "2026-11-27",
   "category_counts": {
     "API Wrappers": 16,
     "Utilities": 17,
@@ -201,6 +202,6 @@
     "Databases": 13,
     "DevOps": 16,
     "Web Scraping": 16,
-    "System Design": 13
+    "System Design": 14
   }
 }
